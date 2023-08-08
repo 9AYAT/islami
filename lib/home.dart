@@ -11,6 +11,7 @@ class HomeLayout extends StatelessWidget {
         centerTitle: true,
 
 
+
 backgroundColor: Colors.orange,
         title: Text("Islami"),
       ),
