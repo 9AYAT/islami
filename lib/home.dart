@@ -9,14 +9,9 @@ class HomeLayout extends StatelessWidget {
 
       appBar:AppBar(
         centerTitle: true,
-
-
-
 backgroundColor: Colors.orange,
         title: Text("Islami"),
       ),
-
     );
-
   }
 }
