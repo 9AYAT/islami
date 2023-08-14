@@ -4,7 +4,6 @@ import 'package:untitled6/home.dart';
 void main() {
   runApp(const MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
@@ -14,12 +13,7 @@ class MyApp extends StatelessWidget {
       routes:{
       HomeLayout.routeName:(context)=>HomeLayout(),
       },
-
-
-
       debugShowCheckedModeBanner:false,
     );
   }
 }
-
-
